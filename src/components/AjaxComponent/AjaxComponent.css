@@ -1,0 +1,21 @@
+.Ajax-component{
+    width: 95%;
+    margin: 10px auto;
+}
+
+.h3-palen{
+    color: orangered;
+}
+
+.card-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.card-element{
+    width: 30%;
+}
+
